@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "877681700067",
+    "firebase_url": "https://eventos-games-pietro.firebaseio.com",
+    "project_id": "eventos-games-pietro",
+    "storage_bucket": "eventos-games-pietro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877681700067:android:3115b23af43181eeb569d6",
+        "android_client_info": {
+          "package_name": "com.example.trabalho2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877681700067-9flcosfcs53cevu78uqdn07r7obfbgfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIype2dJGEpDLGT3vIu_4i5GmN5k13ZMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877681700067-9flcosfcs53cevu78uqdn07r7obfbgfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
