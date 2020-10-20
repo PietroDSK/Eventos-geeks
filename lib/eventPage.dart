@@ -52,9 +52,7 @@ class EventPage extends StatelessWidget {
               ),
               child: FlatButton(
                 onPressed: () {
-                  deleteData(evento.documentID);
-                  Navigator.push(context,
-                      MaterialPageRoute(builder: (context) => HomePage()));
+             
                 },
                 child: Text(
                   'Comprar Ingresso',

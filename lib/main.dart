@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'App Cadastro de Exposições',
+      title: 'App Cadastro de Eventos',
       home: HomePage(),
     );
   }

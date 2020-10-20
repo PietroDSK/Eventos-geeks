@@ -25,7 +25,7 @@ class _FormEventState extends State<FormEvent> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Inclusão de Exposições'),
+        title: Text('Inclusão de Eventos'),
       ),
       body: _body(),
       floatingActionButton: FloatingActionButton(
